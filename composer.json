@@ -1,0 +1,12 @@
+{
+    "name": "gmenoia/custom",
+    "type": "magento2-module",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Geiser",
+            "email": "gmenoiaa@gmail.com"
+        }
+    ],
+    "require": {}
+}
